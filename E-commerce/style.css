@@ -1,0 +1,79 @@
+body{
+    background-color:#252326;
+
+}
+.head{
+  background:#252326;
+  color:bisque;
+}
+.gif{
+  margin-top:25px;
+}
+.gif-1{
+  border:1px solid grey;
+  margin-top:25px;
+  background-color:#252326
+}
+.container{
+    padding:20px;
+    
+}
+.content{
+    background-color:#252326;
+}
+.bg{
+    padding: 50px;
+  }
+  .background{
+    background-color: aliceblue;
+    color:crimson;
+  }
+  .bg1{
+    border:;
+    padding: 3%;
+    background-color:#706f6e;
+  }
+  .maincontent img{
+        height:55vh;
+  }
+
+.b2{
+  border:1px solid black;
+  height:110px;
+  background: #694f2f;
+  color:bisque;
+}
+.line{
+  width:85%;
+  position:relative;
+  left:8%;
+  border:1px solid  gold;
+}
+.con{
+  height:350px;
+  position:relative;
+  
+}
+.con-1{
+  position:absolute;
+  
+}
+.b3{
+  height:450px;
+}
+.b4{
+  height:240px;
+}
+.shirt_col{
+  
+  height:450px;
+}
+.shirt_col img{
+  position:absolute;
+}
+.formkey{
+  border:1px solid black;
+  height:500px;
+  position:absolute;
+  top:50%;
+}

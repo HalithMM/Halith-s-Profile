@@ -1,0 +1,65 @@
+body{
+    background-color:#252326;
+
+}
+.main{
+    margin-top:75px;
+}
+h1{
+  font-weight:900;
+  letter-spacing:2px; 
+}
+h3{
+    color:bisque;
+}
+.name{
+    position:absolute;
+    top:40%;
+    right:25%;
+    text-align:center;
+}
+.span{
+    position:absolute;
+    top:35%;
+    right:38%;
+    text-align:center;
+}
+.cont{
+    margin-top:10px;
+}
+.Know{
+    padding:10px;
+    font-family:sans-serif;
+    font-weight:100;
+}
+hr{
+    position:absolute;
+    left:12%;
+    border:1px solid white;
+    width:75%;
+    margin:0 auto;
+}
+ul{
+    list-style:square;
+}
+.Blogheading{
+    color:#9FE2BF;
+    padding:20px;
+}
+.Blogpara{
+    color:white;
+}
+#halith{
+    animation:halith 1s infinite;
+
+}
+
+@keyframes halith{
+    0% {transform:scale(1,1);}
+    50% {transform:scale(1.1,1.1);}
+    100%{transform:scale(1.2,1.2);}
+}
+
+.project{
+    background-color:aliceblue;
+}
